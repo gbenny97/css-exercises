@@ -1,5 +1,6 @@
 .classy {
     background-color: #FA8072;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 
 }
 
@@ -9,7 +10,7 @@
 
 #first {
     color: rgb(20,0,200);
-    font-size: 30px;
+    font-size: 36px;
     font-family:  sans-serif, Arial;
 }
 
@@ -18,8 +19,5 @@
     font-weight: bold;
 }
 #second, .bolder {
-    font-size: 22px;
-}
-.letters{ 
-    font-family: Arial,sans-serif;
+    font-size: 24px;
 }

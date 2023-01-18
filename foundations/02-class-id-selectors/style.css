@@ -1,0 +1,25 @@
+.classy {
+    background-color: #FA8072;
+
+}
+
+.bolder {
+    font-weight: 400;
+}
+
+#first {
+    color: rgb(20,0,200);
+    font-size: 30px;
+    font-family:  sans-serif, Arial;
+}
+
+#second {
+    background-color: rgb(20,125,20);
+    font-weight: bold;
+}
+#second, .bolder {
+    font-size: 22px;
+}
+.letters{ 
+    font-family: Arial,sans-serif;
+}
